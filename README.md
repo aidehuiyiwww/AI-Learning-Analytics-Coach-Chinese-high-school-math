@@ -20,14 +20,16 @@ This project demonstrates the integration of:
 # System Screenshots
 
 1. Student Practice Page
+![](./images/student practice page.png)
 
-2. AI Mistake Diagnosis
+3. AI Mistake Diagnosis
+![](./images/ai-mistake diagosis.png)
+![](./images/student practice page 3.png)
+4. Knowledge Mastery Dashboard
 
-3. Knowledge Mastery Dashboard
+5. Recommendation Engine
 
-4. Recommendation Engine
-
-5. Learning Analytics Visualization
+6. Learning Analytics Visualization
 
 
 ---
