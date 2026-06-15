@@ -28,7 +28,7 @@ This project demonstrates the integration of:
 4. Knowledge Mastery Dashboard
 
 5. Recommendation Engine
-
+![](./images/recommendations.png)
 6. Learning Analytics Visualization
 
 
